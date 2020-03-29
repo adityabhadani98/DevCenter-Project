@@ -1,0 +1,154 @@
+/* Pagination links */
+.table-responsive a {
+	color: black;
+	float: left;
+	padding: 8px 16px;
+	text-decoration: none;
+	transition: background-color .3s;
+}
+
+/* Style the active/current link */
+.table-responsive a.active {
+	background-color: dodgerblue;
+	color: white;
+}
+
+td i {
+	text-align: center; [ class ^="icon-"], [class*=" icon-"] { display :
+	inline-block;
+	width: 100%;
+}
+
+}
+
+/* Add a grey background color on mouse-over */
+.table-responsive
+
+
+
+ 
+
+
+
+a
+
+
+
+
+
+
+:hover
+
+
+
+
+
+
+:not
+
+
+
+ 
+
+
+
+(
+.active
+
+
+
+ 
+
+
+
+)
+{
+background-color
+
+
+
+
+
+
+:
+
+
+
+ 
+
+
+
+#ddd
+
+
+
+
+
+
+;
+}
+.focus {
+	Â background-color: #ff00ff;
+	Â color: #fff;
+	Â cursor: pointer;
+	Â font-weight: bold;
+}
+
+.pageNumber {
+	Â padding: 2px;
+}
+
+nav a {
+	transition: 0.3s ease;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	border-top: 4px solid transparent;
+	border-bottom: 4px solid transparent;
+	padding: 12px 0;
+	margin: 0 5px;
+	font-size: 17px;
+}
+
+.navbar_inverse {
+	padding: 6px 0;
+	background: #0E94D3; /* Old browsers */
+	background: -moz-linear-gradient(45deg, #95cd6a 0%, #95cd6a 21%, #0E94D3 21%,
+		#0E94D3 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(45deg, #95cd6a 0%, #95cd6a 21%, #0E94D3 21%,
+		#0E94D3 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(45deg, #95cd6a 0%, #95cd6a 21%, #0E94D3 21%, #0E94D3
+		100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.invisible-at-first {
+	display: none;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+	background-color: #111;
+}
+
+.has-error input[type="text"]{
+	 border: 1px solid #a94442;
+}
